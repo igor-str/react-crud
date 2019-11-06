@@ -1,4 +1,4 @@
-#React + Redux CRUD demo
+# React + Redux CRUD demo
  
 ## Running
 
